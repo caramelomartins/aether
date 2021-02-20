@@ -6,7 +6,8 @@ A fork of [aether](https://github.com/josephhutch/aether):
 
 Features:
 
-- Improved integration with Netlify CMS.
+- Integration with Netlify CMS.
+- Integration with Plausible Analytics.
 
 For other information regarding usage and installation, see the original theme information at [aether](https://github.com/josephhutch/aether).
 
